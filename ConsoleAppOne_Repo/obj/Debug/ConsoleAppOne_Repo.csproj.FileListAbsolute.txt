@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne_Repo\bin\Debug\ConsoleAppOne_Repo.dll
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne_Repo\bin\Debug\ConsoleAppOne_Repo.pdb
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne_Repo\obj\Debug\ConsoleAppOne_Repo.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne_Repo\obj\Debug\ConsoleAppOne_Repo.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne_Repo\obj\Debug\ConsoleAppOne_Repo.dll
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne_Repo\obj\Debug\ConsoleAppOne_Repo.pdb

@@ -1,0 +1,17 @@
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne\bin\Debug\ConsoleAppOne.exe.config
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne\bin\Debug\ConsoleAppOne.exe
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne\bin\Debug\ConsoleAppOne.pdb
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne\bin\Debug\ConsoleAppOne_Repo.dll
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne\bin\Debug\ConsoleAppOne_Tests.dll
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne\bin\Debug\ConsoleAppOne_Repo.pdb
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne\bin\Debug\ConsoleAppOne_Tests.pdb
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne\obj\Debug\ConsoleAppOne_Console.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne\obj\Debug\ConsoleAppOne_Console.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne\obj\Debug\ConsoleAppOne_Console.csproj.CopyComplete
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne\obj\Debug\ConsoleAppOne.exe
+C:\ElevenFiftyProjects\GoldBadgeFinalProject\ConsoleAppOne\ConsoleAppOne\obj\Debug\ConsoleAppOne.pdb
