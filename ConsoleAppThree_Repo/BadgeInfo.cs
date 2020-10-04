@@ -6,16 +6,33 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppThree_Repo
 {
-    class BadgeInfo
+    public enum Door
+    {
+        NA,
+        A1,
+        A2,
+        A3,
+        B4,
+        B5,
+        C6,
+        C7
+
+    }
+    public class BadgeInfo
     {
         public int BadgeID { get; set; }
-        public string DoorName { get; set; }
+        public Door DoorName1 { get; set; }
+        public Door DoorName2 { get; set; }
+        public Door DoorName3 { get; set; }
         public string BadgeName { get; set; }
 
-        public BadgeInfo(int badgeID, string doorName, string badgeName)
+        public BadgeInfo() { }
+        public BadgeInfo(int badgeID, Door doorName1, Door doorName2, Door doorName3, string badgeName)
         {
             BadgeID = badgeID;
-            DoorName = doorName;
+            DoorName1 = doorName1;
+            DoorName2 = doorName2;
+            DoorName3 = doorName3;
             BadgeName = badgeName;
         }
        
